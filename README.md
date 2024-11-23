@@ -1,4 +1,6 @@
 # Hi there, I'm [@mirulfiq1] 👋
+![1716121589428](https://github.com/user-attachments/assets/da1ecacf-c944-49fa-b944-f32f5a97839e)
+
 
 I am a student at the School of Information Science, College of Computing, Informatics and Mathematics at Universiti Teknologi MARA (UITM), Puncak Perdana campus. I am pursuing a Bachelor of Information Science (Hons) in Information Systems Management.
 
